@@ -9,7 +9,7 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: 'BodyPower', 
+      title: 'BodyPower',
       theme: ThemeData(
         primarySwatch: Colors.blue, // Define el tema de la aplicación
       ),
